@@ -1,6 +1,6 @@
 # hopper_Kernelcache_symbol
 
-This is a Hopper Disassembler Python script used to restore kernelcache symbols. Modified from the Ghidra kernelcache script available at https://github.com/0x36/ghidra_kernelcache. 
+This is a Hopper Disassembler Python script used to restore kernelcache symbols. Modified from the [Ghidra kernelcache](https://github.com/0x36/ghidra_kernelcache). Requires at the first stage [iometa](https://github.com/Siguza/iometa/) (made by @s1guza) 
 
 ## Usage
 
